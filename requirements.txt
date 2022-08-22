@@ -1,2 +1,2 @@
 pytest
-git+https://github.com/csctd/todobricks.git@main
+git+https://github.com/csctd/todobricks.git@b941b22114faf2cffd550082e8acabdf311f339e
